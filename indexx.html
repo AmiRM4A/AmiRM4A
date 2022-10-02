@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Test</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        // function sum() {
+        //     var numOne = Number(Document.getElementById("Num1").value);
+        //     var numTwo = Number(Document.getElementById("Num2").value);
+        //     // Document.getElementById(Result) = Document.getElementById(Num1).value + Document.getElementById(Num2).value;
+        //     Document.getElementById("Result").value = numOne + numTwo;
+        // }
+        function Button1() {
+            var num = parseInt(document.getElementById("txt").value);
+            num++;
+            document.getElementById("txt").value = num;
+        }
+
+        function Button2() {
+            var num = parseInt(document.getElementById("txt").value);
+            num < 1 ? num = 1 : '';
+            num--;
+            document.getElementById("txt").value = num;
+        }
+    </script>
+    <div>
+        <button onclick="Button1()"> + </button>
+        <input type="number" value="1" id="txt">
+        <button onclick="Button2()"> - </button>
+    </div>
+    <!-- <div class="main">
+        <div class="numDiv">
+            <label for="Num1">First Number:</label>
+            <input id="Num1" class="width100" type="text" name="firstNum"><br>
+        </div>
+        <div class="numDiv">
+            <label for="Num2">Second Number:</label>
+            <input id="Num2" class="width100" type="text" name="secondNum"><br>
+        </div>
+        <div class="numDiv">
+            <label for="Result">Results:</label>
+            <input id="Result" class="width100" type="text" name="res" readonly>
+        </div>
+        <div class="divBtn">
+            <input type="button" name="btn" value="=" onclick="sum()">
+        </div>
+    </div> -->
+</body>
+
+</html>

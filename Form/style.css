@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    background-image: linear-gradient(to right, #4481eb 0%, #04befe 100%);
+    font-family: 'Vazir';
+    direction: rtl;
+}
+
+form>input {
+    color: #fff;
+}
+
+form>a:hover {
+    color: rgba(255, 255, 255, 0.788)
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    text-align: center;
+}
+
+.container>div {
+    max-width: 400px;
+    height: auto;
+    display: inline-block;
+    padding: 50px 65px;
+    background-color: rgba(255, 255, 255, .1);
+    border: 1px solid rgba(255, 255, 255, .3);
+    border-radius: 15px;
+    box-shadow: 0 26px 42px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    border-radius: 50%;
+    opacity: 0.7;
+}
+
+.circle-1 {
+    background-color: #00f261d7;
+    top: -65px;
+    right: -65px;
+}
+
+.circle-2 {
+    background-color: #0575e6;
+    bottom: -74px;
+    left: -74px;
+}
+
+.container h1 {
+    color: #fff;
+    font-size: 30px;
+}
+
+.container input,
+.send-btn {
+    width: 100%;
+    outline: none;
+    border: none;
+    margin-top: 16px;
+    background-color: rgba(255, 255, 255, .1);
+    border-radius: 10px;
+    padding: 12px 15px;
+}
+
+.container input::placeholder {
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container button {
+    background-color: #0575e6;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color .5s;
+    font-size: 16px;
+}
+
+.container input[type="submit"]:hover {
+    background-color: #00f261da;
+    opacity: 90%;
+}
+
+.container a {
+    color: #fff;
+    display: inline-block;
+    margin-top: 16px;
+}
+
+form::after {
+    content: '';
+    clear: both;
+}
+
+.container form a:nth-child(4) {
+    float: right;
+}
+
+.container form a:nth-child(5) {
+    float: left;
+}
