@@ -1,0 +1,20 @@
+{
+    "name": "php/register",
+    "description": "first composer config",
+    "type": "library",
+    "require": {
+        "fakerphp/faker": "^1.20"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Php\\Register\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amir"
+        }
+    ],
+    "minimum-stability": "stable"
+}

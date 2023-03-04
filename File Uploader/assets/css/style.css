@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Vazir-Regular';
+    src: url('fonts/Vazirmatn-Regular.ttf') format('ttf');
+    font-family: 'Vazir-Bold';
+    src: url('fonts/Vazirmatn-Bold.ttf') format('ttf');
+}
+
+body {
+    background: #3c40c6;
+    background-image: url(img/stars-opacity.svg);
+    font-family: 'Vazir-Regular';
+    box-sizing: border-box;
+}
+
+.form {
+    background: #0c24618a;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 15% auto;
+    width: 50%;
+    color: #fff;
+}
+
+form {
+    margin: 0 auto;
+    width: 80%;
+    height: 25%;
+    padding: 40px 30px 25px;
+}
+
+input[type=file] {
+    display: none;
+    position: absolute;
+}
+
+input[type=submit] {
+    width: 100%;
+    background: #4CAF50;
+    padding: 10px;
+    margin-top: 30px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+    margin: 0;
+    font-family: 'Vazir-Regular';
+}
+
+label {
+    margin: 20px auto 0;
+    position: relative;
+    width: 150px;
+    height: 30px;
+    border-radius: 25px;
+    background: linear-gradient(40deg, #ff6ec4, #7873f5);
+    box-shadow: 0 4px 7px rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform .2s ease-out;
+}
+
+input[type=submit]:hover,
+label:hover {
+    opacity: 90%;
+}
+
+.error,
+.success {
+    border: 1px solid;
+    border-left: 10px solid;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: -10px auto 25px;
+    padding: 15px 10px 15px 20px;
+    width: 74%;
+    font-size: 14px;
+}
+
+.error {
+    color: #D8000C;
+    background-color: #FFBABA;
+}
+
+.success {
+    border-color: #63e6be;
+    background-color: #c3fae8;
+    color: #1d9d74;
+}
