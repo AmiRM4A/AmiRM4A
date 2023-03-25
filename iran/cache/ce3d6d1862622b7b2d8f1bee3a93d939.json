@@ -1,0 +1,21 @@
+{
+    "http_status": 200,
+    "http_message": "OK",
+    "data": [
+        {
+            "ID": 4,
+            "Name": "Ardabil",
+            "Province": "2"
+        },
+        {
+            "ID": 5,
+            "Name": "Meshginshahr",
+            "Province": "2"
+        },
+        {
+            "ID": 6,
+            "Name": "Namin",
+            "Province": "2"
+        }
+    ]
+}
