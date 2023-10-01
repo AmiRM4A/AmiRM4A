@@ -1,9 +1,12 @@
+<!-- Header Section -->
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Welcome&fontSize=90&animation=fadeOut" alt="Header">
 </div>
 
+<!-- Introduction Section -->
 ## 👋 Hey there, I'm Amir :)
 
+<!-- Social Media Links Section -->
 ### 🌐 Social Media:
 
 <div align="center">
@@ -13,7 +16,7 @@
 	<a href="https://t.me/AmiR_M4A" target="blank">
  		 <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/telegram.png" alt="Telegram Account" height="48" width="48" />
 	</a> 
-		<a href="https://instagram.com/amir_m4a" target="blank">
+	<a href="https://instagram.com/amir_m4a" target="blank">
  		 <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/instagram.png" alt="Instagram Account" height="48" width="48" />
 	</a> 
 	<a href="https://twitter.com/m4_ami" target="blank">
@@ -24,6 +27,7 @@
 	</a>
 </div>
 
+<!-- Tools Section -->
 ### 🛠️ The Tools I Use:
 
 <div align="center">
@@ -36,13 +40,16 @@
     <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/git.png" alt="Git" height="48" width="48">
 </div>
 
+<!-- About Me Section -->
 ## 👤 About Me
 
-### 🎓 Eduction...
+<!-- Education Section -->
+### 🎓 Education...
 - 🏫 High School: Computer Science
 - 🎓 Currently Pursuing: Software Development (College Student)
 - 📚 Self-Taught Back-End Developer
 
+<!-- Interests Section -->
 ### 🚀 Interests...
 
 I'm really into various tech fields, such as:
@@ -54,6 +61,7 @@ I'm really into various tech fields, such as:
 - 📚 E-Learning and Online Education Technologies
 - 💾 Computer Hardware and Architecture
 
+<!-- Learning Section -->
 ### 📖 Learning...
 
 I'm currently focusing on mastering:
@@ -61,6 +69,7 @@ I'm currently focusing on mastering:
 - 💡 JavaScript (JS)
 - 🌲 Git & GitHub
 
+<!-- Goals Section -->
 ### 🌟 Goals...
 
 In 2023, I aim to accomplish the following:
@@ -69,6 +78,7 @@ In 2023, I aim to accomplish the following:
 - 📂 Create a portfolio of diverse projects.
 - 🔍 Explore and deepen my knowledge of PHP.
 
+<!-- Trophies Section -->
 ## ⚡ Activity
 
 ### 🏆 Trophies...
@@ -79,20 +89,22 @@ In 2023, I aim to accomplish the following:
 </a>
 </div>
 
+<!-- Status Section -->
 ### 🔍 Status...
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=AmirM4A&show_icons=true&theme=onedark" alt="Amir's GitHub stats">
-</div>
-
 <div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirM4A&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true"
     	alt="Activity Graph"/>
 </div>
 
 <div align="center">
-	<img src="https://wakatime.com/badge/user/ee181724-c89d-437a-a9af-fad5f1b3d950.svg" alt="Total time coded since Apr 25 2023" />
+	<img src="https://github-readme-stats.vercel.app/api?username=AmirM4A&show_icons=true&theme=onedark" alt="Amir's GitHub stats">
 </div>
 
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer alt="Footer"/>
+	<img src="https://wakatime.com/badge/user/ee181724-c89d-437a-a9af-fad5f1b3d950.svg" alt="Total time coded since Apr 25 2023" />
+</div>
+
+<!-- Footer Section -->
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" alt="Footer"/>
 </div>
