@@ -67,4 +67,17 @@ In 2023, I aim to accomplish the following:
 - 📂 Create a portfolio of diverse projects.
 - 🔍 Explore and deepen my knowledge of PHP.
 
-##
+## GitHub Account
+
+## Trophies
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmirM4A&theme=onedark" alt="trophy">
+</a>
+</div>
+
+## Status
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=AmirM4A&show_icons=true&theme=onedark" alt="Anurag's GitHub stats">
+</div>
