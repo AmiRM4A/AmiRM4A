@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome&fontSize=90&animation=fadeOut">
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Welcome&fontSize=90&animation=fadeOut" alt="Header">
+</div>
 
-## 👋 Hey there, I'm Amir
+## 👋 Hey there, I'm Amir :)
 
 ### 🌐 Social Media:
 
@@ -67,17 +69,30 @@ In 2023, I aim to accomplish the following:
 - 📂 Create a portfolio of diverse projects.
 - 🔍 Explore and deepen my knowledge of PHP.
 
-## GitHub Account
+## ⚡ Activity
 
-## Trophies
+### 🏆 Trophies...
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirM4A&theme=onedark" alt="trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmirM4A&theme=onedark" alt="Trophies">
 </a>
 </div>
 
-## Status
+### 🔍 Status...
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=AmirM4A&show_icons=true&theme=onedark" alt="Anurag's GitHub stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=AmirM4A&show_icons=true&theme=onedark" alt="Amir's GitHub stats">
+</div>
+
+<div align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirM4A&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true"
+    	alt="Activity Graph"/>
+</div>
+
+<div align="center">
+	<img src="https://wakatime.com/badge/user/ee181724-c89d-437a-a9af-fad5f1b3d950.svg" alt="Total time coded since Apr 25 2023" />
+</div>
+
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer alt="Footer"/>
 </div>
