@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Welcome&fontSize=90&animation=fadeOut" alt="Header">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Welcome&fontSize=90&animation=fadeOut" alt="Header" />
 </div>
 
 <!-- Introduction Section -->
@@ -20,10 +20,10 @@
  		 <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/instagram.png" alt="Instagram Account" height="48" width="48" />
 	</a> 
 	<a href="https://twitter.com/m4_ami" target="blank">
-  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/x.png" alt="Twitter Account" height="48" width="48"/>
+  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/x.png" alt="Twitter Account" height="48" width="48" />
 	</a>
-  	<a href="https://mobina.nezhadjfarian@gmail.com" target="blank">
-  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/gmail.png" alt="Gmail Account" height="48" width="48"/>
+  	<a href="https://asgry255@gmail.com" target="blank">
+  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/gmail.png" alt="Gmail Account" height="48" width="48" />
 	</a>
 </div>
 
@@ -31,13 +31,13 @@
 ### 🛠️ The Tools I Use:
 
 <div align="center">
-  <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/html5.png" alt="HTML 5" height="48" width="48">
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/css3.png" alt="CSS 3" height="48" width="48">
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/javascript.png" alt="JavaScript" height="48" width="48">
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/php.png" alt="PHP" height="48" width="48">
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/mysql.png" alt="MySQL" height="48" width="48">
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/postman.png" alt="PostMan" height="48" width="48">
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/git.png" alt="Git" height="48" width="48">
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/html5.png" alt="HTML 5" height="48" width="48" />
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/css3.png" alt="CSS 3" height="48" width="48" />
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/javascript.png" alt="JavaScript" height="48" width="48" />
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/php.png" alt="PHP" height="48" width="48" />
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/mysql.png" alt="MySQL" height="48" width="48" />
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/postman.png" alt="PostMan" height="48" width="48" />
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/git.png" alt="Git" height="48" width="48" />
 </div>
 
 <!-- About Me Section -->
@@ -66,7 +66,7 @@ I'm really into various tech fields, such as:
 
 I'm currently focusing on mastering:
 
-- 💡 JavaScript (JS)
+- 💡 JavaScript
 - 🌲 Git & GitHub
 
 <!-- Goals Section -->
@@ -84,20 +84,18 @@ In 2023, I aim to accomplish the following:
 ### 🏆 Trophies...
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirM4A&theme=onedark" alt="Trophies">
-</a>
+ 	<img src="https://github-profile-trophy.vercel.app/?username=AmirM4A&theme=onedark" alt="Trophies" />
 </div>
 
 <!-- Status Section -->
 ### 🔍 Status...
 <div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirM4A&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true"
-    	alt="Activity Graph"/>
+    	alt="Activity Graph" />
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=AmirM4A&show_icons=true&theme=onedark" alt="Amir's GitHub stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=AmirM4A&show_icons=true&theme=onedark" alt="Amir's GitHub stats" />
 </div>
 
 <div align="center">
@@ -106,5 +104,5 @@ In 2023, I aim to accomplish the following:
 
 <!-- Footer Section -->
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" alt="Footer"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" alt="Footer" />
 </div>
