@@ -88,11 +88,11 @@ In 2023, I aim to accomplish the following:
 </div>
 
 <!-- Status Section -->
-### 🔍 Status...
+<!-- ### 🔍 Status...
 <div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirM4A&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true"
     	alt="Activity Graph" />
-</div>
+</div> -->
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=AmirM4A&show_icons=true&theme=onedark" alt="Amir's GitHub stats" />
