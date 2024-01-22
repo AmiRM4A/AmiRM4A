@@ -73,11 +73,11 @@ I'm currently focusing on mastering:
 <!-- Goals Section -->
 ### 🌟 Goals...
 
-In 2023, I aim to accomplish the following:
+In 2024, I aim to accomplish the following:
 
-- 🚀 Master JavaScript (JS) and Git.
-- 📂 Create a portfolio of diverse projects.
-- 🔍 Explore and deepen my knowledge of PHP.
+- 🚀 Master PHP and Laravel framework.
+- 📂 Being employed as a developer.
+- 🔍 Exploring Linux world.
 
 <!-- Trophies Section -->
 ## ⚡ Activity
