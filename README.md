@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Welcome&fontSize=90&animation=fadeOut" alt="Header" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Welcome&fontSize=90" alt="Header" />
 </div>
 
 <!-- Introduction Section -->
