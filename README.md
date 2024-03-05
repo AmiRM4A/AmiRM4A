@@ -66,9 +66,9 @@ I'm really into various tech fields, such as:
 
 I'm currently focusing on mastering:
 
-- 🌟 PHP
-- 💡 JavaScript
-- 🌲 Git & GitHub
+- 🌟 PHP & Laravel
+- 💡 Linux
+- 🌲 Docker
 
 <!-- Goals Section -->
 ### 🌟 Goals...
