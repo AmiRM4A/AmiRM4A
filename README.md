@@ -4,7 +4,7 @@
 </div>
 
 <!-- Introduction Section -->
-## 👋 Hey there, I'm Amir :)
+## 👋 Hey there, I'm Amir
 
 <!-- Social Media Links Section -->
 ### 🌐 Social Media:
@@ -44,13 +44,13 @@
 ## 👤 About Me
 
 <!-- Education Section -->
-### 🎓 Education...
+### 🎓 Education:
 - 🏫 High School: Computer Science
 - 🎓 Currently Pursuing: Software Development (College Student)
 - 📚 Self-Taught Back-End Developer
 
 <!-- Interests Section -->
-### 🚀 Interests...
+### 🚀 Interests:
 
 I'm really into various tech fields, such as:
 
@@ -62,7 +62,7 @@ I'm really into various tech fields, such as:
 - 💾 Computer Hardware and Architecture
 
 <!-- Learning Section -->
-### 📖 Learning...
+### 📖 Learning:
 
 I'm currently focusing on mastering:
 
@@ -71,7 +71,7 @@ I'm currently focusing on mastering:
 - 🌲 Docker
 
 <!-- Goals Section -->
-### 🌟 Goals...
+### 🌟 Goals:
 
 In 2024, I aim to accomplish the following:
 
@@ -82,7 +82,7 @@ In 2024, I aim to accomplish the following:
 <!-- Trophies Section -->
 ## ⚡ Activity
 
-### 🏆 Trophies...
+### 🏆 Trophies:
 
 <div align="center">
  	<img src="https://github-profile-trophy.vercel.app/?username=AmirM4A&theme=onedark" alt="Trophies" />
