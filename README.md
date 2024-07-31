@@ -57,7 +57,6 @@ I'm really into various tech fields, such as:
 - 💻 Web Development (Backend)
 - 🌐 Networking and its Structure
 - 🤖 Technology news
-- 🌱 Internet of Things (IoT) and Smart Devices
 - 📚 E-Learning and Online Education Technologies
 - 💾 Computer Hardware and Architecture
 
@@ -75,9 +74,9 @@ I'm currently focusing on mastering:
 
 In 2024, I aim to accomplish the following:
 
-- 🚀 Master PHP and Laravel framework.
-- 📂 Being employed as a developer.
-- 🔍 Exploring Linux world.
+- 🚀 Master PHP and Laravel framework
+- 📂 Being employed as a developer
+- 🔍 Exploring the Linux world
 
 <!-- Trophies Section -->
 ## ⚡ Activity
