@@ -7,37 +7,32 @@
 ## 👋 Hey there, I'm Amir
 
 <!-- Social Media Links Section -->
-### 🌐 Social Media:
+### 🌐 Connect With Me:
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/amir-asgry-14918a222" target="blank">
-  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/linkedin.png" alt="Linkedin Account" height="48" width="48" />
+	<a href="https://www.linkedin.com/in/AmirM4A" target="blank">
+  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/LinkedIN.svg" alt="LinkedIn Account" height="48" width="48" />
 	</a>
 	<a href="https://t.me/AmiR_M4A" target="blank">
- 		 <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/telegram.png" alt="Telegram Account" height="48" width="48" />
+ 		 <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/Telegram.svg" alt="Telegram Account" height="48" width="48" />
 	</a> 
-	<a href="https://instagram.com/amir_m4a" target="blank">
- 		 <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/instagram.png" alt="Instagram Account" height="48" width="48" />
+	<a href="https://instagram.com/Amir_M4A" target="blank">
+ 		 <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/Instagram.svg" alt="Instagram Account" height="48" width="48" />
 	</a> 
 	<a href="https://twitter.com/m4_ami" target="blank">
-  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/x.png" alt="Twitter Account" height="48" width="48" />
+  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/Twitter.svg" alt="Twitter Account" height="48" width="48" />
 	</a>
   	<a href="https://asgry255@gmail.com" target="blank">
-  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/gmail.png" alt="Gmail Account" height="48" width="48" />
+  		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/Gmail.svg" alt="Gmail Account" height="48" width="48" />
 	</a>
 </div>
 
 <!-- Tools Section -->
-### 🛠️ The Tools I Use:
+### 🛠️ Technologies & Tools I Use:
 
 <div align="center">
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/html5.png" alt="HTML 5" height="48" width="48" />
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/css3.png" alt="CSS 3" height="48" width="48" />
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/javascript.png" alt="JavaScript" height="48" width="48" />
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/php.png" alt="PHP" height="48" width="48" />
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/mysql.png" alt="MySQL" height="48" width="48" />
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/postman.png" alt="PostMan" height="48" width="48" />
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/git.png" alt="Git" height="48" width="48" />
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/technologies.svg" alt="technologies"/><br>
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/tools.svg" alt="tools"/>
 </div>
 
 <!-- About Me Section -->
@@ -46,19 +41,18 @@
 <!-- Education Section -->
 ### 🎓 Education:
 - 🏫 High School: Computer Science
-- 🎓 Currently Pursuing: Software Development (College Student)
-- 📚 Self-Taught Back-End Developer
+- 🎓 Currently Pursuing: Software Development (Student)
+- 📚 Self-Taught: Back-End developer
 
 <!-- Interests Section -->
 ### 🚀 Interests:
 
 I'm really into various tech fields, such as:
 
-- 💻 Web Development (Backend)
-- 🌐 Networking and its Structure
-- 🤖 Technology news
-- 📚 E-Learning and Online Education Technologies
-- 💾 Computer Hardware and Architecture
+- 💻 Web development (Back-End)
+- 🤖 Technology news & trends
+- 📚 E-Learning & online education technologies
+- 💾 Computer hardware & architecture
 
 <!-- Learning Section -->
 ### 📖 Learning:
@@ -79,7 +73,7 @@ In 2024, I aim to accomplish the following:
 - 🔍 Exploring the Linux world
 
 <!-- Trophies Section -->
-## ⚡ Activity
+## ⚡ My Activities
 
 ### 🏆 Trophies:
 
