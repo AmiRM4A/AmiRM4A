@@ -94,7 +94,8 @@ In 2024, I aim to accomplish the following:
 
 <div align="center">
 	<img src="https://wakatime.com/badge/user/ee181724-c89d-437a-a9af-fad5f1b3d950.svg" alt="Total time coded since Apr 25 2023" />
-	<img src="https://komarev.com/ghpvc/?username=AmirM4A&color=blue&style=flat&label=Profile+Views&abbreviated=true" alt="Amir's Profile Views Count"/>
+	<img src="https://komarev.com/ghpvc/?username=AmirM4A&color=blue&style=flat&label=Profile+Views&abbreviated=true" alt="Amir's Profile Views Count"/><br>
+  	<a href="https://wakatime.com/@Amir_M4A" target="blank">WakaTime Profile</a>
 </div>
 
 <!-- Footer Section -->
