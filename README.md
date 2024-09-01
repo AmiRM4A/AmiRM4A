@@ -8,7 +8,6 @@
 
 <!-- Social Media Links Section -->
 ### 🌐 Connect With Me:
-
 <div align="center">
 	<a href="https://www.linkedin.com/in/AmirM4A" target="blank">
   		<img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/LinkedIN.svg" alt="LinkedIn Account" height="48" width="48" />
@@ -29,7 +28,6 @@
 
 <!-- Tools Section -->
 ### 🛠️ Technologies & Tools I Use:
-
 <div align="center">
     <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/technologies.svg" alt="technologies"/><br>
     <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/tools.svg" alt="tools"/>
@@ -37,7 +35,6 @@
 
 <!-- About Me Section -->
 ## 👤 About Me
-
 <!-- Education Section -->
 ### 🎓 Education:
 - 🏫 High School: Computer Science
@@ -46,7 +43,6 @@
 
 <!-- Interests Section -->
 ### 🚀 Interests:
-
 I'm really into various tech fields, such as:
 
 - 💻 Web development (Back-End)
@@ -56,7 +52,6 @@ I'm really into various tech fields, such as:
 
 <!-- Learning Section -->
 ### 📖 Learning:
-
 I'm currently focusing on mastering:
 
 - 🌟 PHP & Laravel
@@ -65,7 +60,6 @@ I'm currently focusing on mastering:
 
 <!-- Goals Section -->
 ### 🌟 Goals:
-
 In 2024, I aim to accomplish the following:
 
 - 🚀 Master PHP and Laravel framework
@@ -76,7 +70,6 @@ In 2024, I aim to accomplish the following:
 ## ⚡ My Activities
 
 ### 🏆 Trophies:
-
 <div align="center">
  	<img src="https://github-profile-trophy.vercel.app/?username=AmirM4A&theme=onedark" alt="Trophies" />
 </div>
