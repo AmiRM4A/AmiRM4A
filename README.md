@@ -35,24 +35,25 @@
 
 <!-- About Me Section -->
 ## 👤 About Me
+
 <!-- Education Section -->
 ### 🎓 Education:
 - 🏫 High School: Computer Science
 - 🎓 Currently Pursuing: Software Development (Student)
-- 📚 Self-Taught: Back-End developer
+- 📚 Self-Taught: Back-end developer
 
 <!-- Interests Section -->
 ### 🚀 Interests:
 I'm really into various tech fields, such as:
 
-- 💻 Web development (Back-End)
+- 💻 Web Development (Back-End)
 - 🤖 Technology news & trends
 - 📚 E-Learning & online education technologies
 - 💾 Computer hardware & architecture
 
 <!-- Learning Section -->
 ### 📖 Learning:
-I'm currently focusing on mastering:
+I'm currently focusing on mastering the following:
 
 - 🌟 PHP & Laravel
 - 💡 Linux
@@ -75,11 +76,15 @@ In 2024, I aim to accomplish the following:
 </div>
 
 <!-- Status Section -->
-<!-- ### 🔍 Status...
-<div align="center">
+## 🔍 Status
+<!-- <div align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirM4A&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true"
     	alt="Activity Graph" />
 </div> -->
+
+<div align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirM4A&theme=onedark" alt="Amir's GitHub stats" />
+</div>
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=AmirM4A&show_icons=true&theme=onedark" alt="Amir's GitHub stats" />
@@ -87,7 +92,7 @@ In 2024, I aim to accomplish the following:
 
 <div align="center">
 	<img src="https://wakatime.com/badge/user/ee181724-c89d-437a-a9af-fad5f1b3d950.svg" alt="Total time coded since Apr 25 2023" />
-	<img src="https://komarev.com/ghpvc/?username=AmirM4A&color=blue&style=flat&label=Profile+Views&abbreviated=true" alt="Amir's Profile Views Count"/><br>
+	<img src="https://komarev.com/ghpvc/?username=AmirM4A&color=blue&style=flat&label=Profile+Views&abbreviated=true" alt="Amir's Profile Views Count" /><br>
   	<a href="https://wakatime.com/@Amir_M4A" target="blank">WakaTime Profile</a>
 </div>
 
