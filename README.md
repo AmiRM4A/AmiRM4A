@@ -52,12 +52,12 @@ I'm really into various tech fields, such as:
 - 💾 Computer hardware & architecture
 
 <!-- Learning Section -->
-### 📖 Learning:
+<!-- ### 📖 Learning:
 I'm currently focusing on mastering the following:
 
-- 🌟 PHP & Laravel
-- 💡 Linux
-- 🌲 Docker
+- 🌟 PHP
+- 💡 Laravel
+- 🌲 Linux -->
 
 <!-- Goals Section -->
 ### 🌟 Goals:
