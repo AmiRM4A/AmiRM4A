@@ -29,8 +29,8 @@
 <!-- Tools Section -->
 ### 🛠️ Technologies & Tools I Use:
 <div align="center">
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/technologies.svg" alt="technologies"/><br>
-    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/tools.svg" alt="tools"/>
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/technologies.svg" alt="technologies" /><br>
+    <img src="https://github.com/AmiRM4A/AmiRM4A/blob/main/icons/tools.svg" alt="tools" />
 </div>
 
 <!-- About Me Section -->
@@ -78,8 +78,7 @@ In 2024, I aim to accomplish the following:
 <!-- Status Section -->
 ## 🔍 Status
 <!-- <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirM4A&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true"
-    	alt="Activity Graph" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirM4A&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true" alt="Activity Graph" />
 </div> -->
 
 <div align="center">
