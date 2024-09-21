@@ -78,7 +78,7 @@ In 2024 ~ 2025, I aim to accomplish the following:
 <!-- Status Section -->
 ## 🔍 Status
 <!-- <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirM4A&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true" alt="Activity Graph" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirM4A&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true" alt="Amir's Activity Graph" />
 </div> -->
 
 <div align="center">
