@@ -65,7 +65,7 @@ In 2024 ~ 2025, I aim to accomplish the following:
 
 - 🚀 Explore more about PHP and Laravel framework
 - 📂 Being employed as a developer
-- 🔍 Exploring the Linux world
+- 🔍 Exploring the Docker & Linux world
 
 <!-- Trophies Section -->
 ## ⚡ My Activities
