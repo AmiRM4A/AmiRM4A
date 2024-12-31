@@ -64,9 +64,9 @@ I'm currently focusing on mastering the following:
 In 2025 ~ 2026, I aim to accomplish the following:
 
 - 🚀 Explore more about Laravel & scalable applications
-- 📂 Read more books about code stuff (specially back-end side)
+- 📂 Read more books about code stuff & development
 - 🔍 Exploring the Docker & Linux world
-- 💡 Learn more about PostgreSQL & sql queries
+- 💡 Learn more about PostgreSQL & SQL queries
 
 <!-- Trophies Section -->
 ## ⚡ My Activities
