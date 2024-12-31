@@ -61,11 +61,12 @@ I'm currently focusing on mastering the following:
 
 <!-- Goals Section -->
 ### 🌟 Goals:
-In 2024 ~ 2025, I aim to accomplish the following:
+In 2025 ~ 2026, I aim to accomplish the following:
 
-- 🚀 Explore more about PHP and Laravel framework
-- 📂 Being employed as a developer
+- 🚀 Explore more about Laravel & scalable applications
+- 📂 Read more books about code stuff (specially back-end side)
 - 🔍 Exploring the Docker & Linux world
+- 💡 Learn more about PostgreSQL & sql queries
 
 <!-- Trophies Section -->
 ## ⚡ My Activities
